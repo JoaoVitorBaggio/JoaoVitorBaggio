@@ -20,4 +20,4 @@ No WildFeedback (Microsoft, 2024), comparei um classificador de sentimento gené
 
 ## Outros
 
-- 2º lugar na competição do Workshop AWS Bedrock
+- 2º lugar na competição do Workshop AWS Bedrock (ECOA 2026)
